@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/blog-fe-xebia/static/css/main.503ba8a5.chunk.css",
+    "main.js": "/blog-fe-xebia/static/js/main.e10c7380.chunk.js",
+    "main.js.map": "/blog-fe-xebia/static/js/main.e10c7380.chunk.js.map",
+    "runtime-main.js": "/blog-fe-xebia/static/js/runtime-main.0c939378.js",
+    "runtime-main.js.map": "/blog-fe-xebia/static/js/runtime-main.0c939378.js.map",
+    "static/js/2.7aa4c68f.chunk.js": "/blog-fe-xebia/static/js/2.7aa4c68f.chunk.js",
+    "static/js/2.7aa4c68f.chunk.js.map": "/blog-fe-xebia/static/js/2.7aa4c68f.chunk.js.map",
+    "static/js/3.0a17596e.chunk.js": "/blog-fe-xebia/static/js/3.0a17596e.chunk.js",
+    "static/js/3.0a17596e.chunk.js.map": "/blog-fe-xebia/static/js/3.0a17596e.chunk.js.map",
+    "index.html": "/blog-fe-xebia/index.html",
+    "static/css/main.503ba8a5.chunk.css.map": "/blog-fe-xebia/static/css/main.503ba8a5.chunk.css.map",
+    "static/js/2.7aa4c68f.chunk.js.LICENSE.txt": "/blog-fe-xebia/static/js/2.7aa4c68f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c939378.js",
+    "static/js/2.7aa4c68f.chunk.js",
+    "static/css/main.503ba8a5.chunk.css",
+    "static/js/main.e10c7380.chunk.js"
+  ]
+}
